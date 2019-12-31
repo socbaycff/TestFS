@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestFS</string>
+    <string name="name">Tên</string>
+    <string name="age">Tuổi</string>
+    <string name="saveBtn">Lưu</string>
+</resources>
